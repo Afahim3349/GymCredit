@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "568070545288",
+    "firebase_url": "https://gymcred-fb7fe.firebaseio.com",
+    "project_id": "gymcred-fb7fe",
+    "storage_bucket": "gymcred-fb7fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568070545288:android:af8641094725daf471e43d",
+        "android_client_info": {
+          "package_name": "com.example.gymcredit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568070545288-bvjh5ek06tmofvu7pc5qqqo00au38rpt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gymcredit",
+            "certificate_hash": "d16d0886c341475f99b9315338ca725c0a677875"
+          }
+        },
+        {
+          "client_id": "568070545288-27k7alhm1pj34vqkh6fbstchl2nnlhap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmOqQHtwEZgBDeTReAcmGglqvqn58Io_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568070545288-27k7alhm1pj34vqkh6fbstchl2nnlhap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
